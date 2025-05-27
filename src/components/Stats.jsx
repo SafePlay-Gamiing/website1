@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { colors } from "../theme";
-import Container from "./Container";
+import Container from "./container";
 
 export default function Stats() {
   const data = [
